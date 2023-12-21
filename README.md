@@ -1,0 +1,1 @@
+This code repository corresponds to the following research paper: Synthesis of Sparse Arrays With Discrete Phase Constraints via Mixed-Integer Programming,Dongnan Xia, Xuejing Zhang (DOI: 10.1109/LAWP.2023.3342143).
